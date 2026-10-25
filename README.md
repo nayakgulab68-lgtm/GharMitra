@@ -2,6 +2,9 @@
 
 Responsive React + Vite + Tailwind CSS + Framer Motion hackathon prototype, based on Team GharMitra’s 16-slide presentation.
 
+#demo preview
+link:-https://gharmitra-companion-lokesh.honeyelf8.chatgpt.site/
+
 ## Run in VS Code
 
 Install Node.js 20.19+ or 22.12+. Open this folder in VS Code, then run:
